@@ -64,8 +64,8 @@ public class SnakeAndLadderComputation {
 						
 		}
 		System.out.println();
-		System.out.println("playerOnePosition: "+playerOnePosition);
-		System.out.println("playerTwoPosition: "+playerTwoPosition);
+		System.out.println("playerOnePosition!!: "+playerOnePosition);
+		System.out.println("playerTwoPosition!!: "+playerTwoPosition);
 		System.out.println("diceCount: "+diceCount);
 		if(playerOnePosition == 100) {
 			System.out.println("Player One Wins");
